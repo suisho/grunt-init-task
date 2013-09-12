@@ -1,0 +1,3 @@
+{
+  "task.js" : "tasks/{%= short_name %}.js",
+}
